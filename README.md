@@ -2,3 +2,6 @@
 
 ## Qualification Round (4-5 April 2020)
 Rank: 2941. Attempted questions 1-4, solutions passed all test cases. Question 5 (Indicium) was ridiculous and I was not able to submit an attempt.
+
+## Round 1A (11 April 2020)
+Struggled. Didn't submit anything in time :/
